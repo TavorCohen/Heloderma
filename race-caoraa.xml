@@ -3,7 +3,7 @@
 	<info>
 		<name>Caoraa</name>
 		<update version="0.0.1">
-			<file name="race-caoraa.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/monsters-of-the-multiverse/race-kobold.xml" />
+			<file name="race-caoraa.xml" url="https://github.com/TavorCohen/Heloderma/blob/bd11e6fa3138a753a29957a4c8323a31afa54958/race-caoraa.xml" />
 		</update>
 	</info>
 	<element name="Caoraa" type="Race" source="Homebrew" id="ID_HMBRW_RACE_CAORAA">
