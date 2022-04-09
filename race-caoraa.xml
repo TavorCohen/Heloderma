@@ -3,7 +3,7 @@
 	<info>
 		<name>Caoraa</name>
 		<update version="0.0.1">
-			<file name="race-caoraa.xml" url="https://github.com/TavorCohen/Heloderma/blob/elements/race-caoraa.xml" />
+			<file name="race-caoraa.xml" url="https://raw.githubusercontent.com/TavorCohen/Heloderma/elements/race-caoraa.xml" />
 		</update>
 	</info>
 	<element name="Caoraa" type="Race" source="Homebrew" id="ID_HMBRW_RACE_CAORAA">
